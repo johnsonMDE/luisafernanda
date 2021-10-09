@@ -39,7 +39,7 @@
 *
 *
 */
-
+ 
 /* font-stock */
 @import url('https://fonts.googleapis.com/css2?family=Yanone+Kaffeesatz:wght@200;300;400;500;600;700&display=swap');
 
@@ -1409,9 +1409,9 @@ margin-left: 50px;
   padding: 30px 8px 30px 8px;
 }
 #filter-porto li.filt-projects {
-  font-size: 13pt;
+  font-size: 10pt;
   font-weight: 400;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   text-transform: uppercase;
   cursor: pointer;
   display: inline-block;
