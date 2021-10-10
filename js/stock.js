@@ -244,7 +244,7 @@ $(function() {
    $('.big-img').magnificPopup({
 		delegate: 'a',
         type: 'image',
-        tLoading: 'Loading image #%curr%...',
+        tLoading: 'cargando imagen #%curr%...',
         mainClass: 'mfp-with-zoom mfp-img-mobile',
         gallery: {
             enabled: true,
